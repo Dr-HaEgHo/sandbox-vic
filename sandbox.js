@@ -55,7 +55,7 @@ let smartPhone = {
 
 }
 
-let bottle = {
+let bottle1 = {
     material: 'glass',
     opening: '6.5 meter radius',
     length: '150cm',

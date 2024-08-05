@@ -1,0 +1,9 @@
+#namesList {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    background: orange;
+    color: white;
+    padding:16px;
+    border-radius: 8px;
+}
